@@ -1,4 +1,4 @@
-$System and Control Project
+##System and Control Project
 
 #Overview
 This project involves simulating a dynamic system described by a set of differential equations and implementing a Variable Structure/Sliding Mode (VS/SM) control system with PID error metrics. The project is developed using Python with the numpy and matplotlib libraries.
