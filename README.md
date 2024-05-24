@@ -10,7 +10,7 @@ This project involves simulating a dynamic system described by a set of differen
 **requirements.txt**: Lists the required Python packages.
 
 ## Usage
-1. Ensure that Python is installed along with numpy and matplotlib.
+1. Ensure that Python is installed along with `numpy` and `matplotlib`.
 2. Install the necessary packages using:
  ```bash
  pip install -r requirements.txt
